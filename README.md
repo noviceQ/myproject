@@ -8,7 +8,7 @@ An utterly fantastic project starter template for Django 1.9.
 - Production-ready configuration for Static Files, Database Settings, Gunicorn, etc.
 - Enhancements to Django's static file serving functionality via WhiteNoise
 
-## How to Use
+## How to Use django
 
 To use this project, follow these steps:
 
